@@ -1,0 +1,17 @@
+{
+  "name": "teamwork-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Felipe Pazinatto",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.15.1",
+    "faker": "^5.5.3",
+    "playwright": "^1.15.1"
+  }
+}
