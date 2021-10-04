@@ -9,14 +9,14 @@ Run the tests:
 
 
 ## Project Structure
-**pages**
+**pages:**
 Each page from the application has it's class, consolidating it's methods and locators in a single place
 	
-**tests**
+**tests:**
 Where the *.spec files with the test scenarios are located
 	
-**test-results**
+**test-results:**
 For logging screenshots and videos on failed scenarios
 	
-**playwright.config.js**
+**playwright.config.js:**
 Configuration file for the project
